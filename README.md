@@ -12,6 +12,16 @@
 
 Сертификат
 
+------
+
+Курс: [Как читать архитектуру](https://magisteria.ru/category/how-to-read-architecture)
+
+Платформа: Magisteria
+
+Лектор: Елена Охотникова
+
+Сертификат
+
 ## Антропология
 
 Курс: [Why we post: антропология социальных медиа](https://openedu.ru/course/hse/WEPOST/)
