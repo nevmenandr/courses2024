@@ -108,7 +108,7 @@
 
 -----
 
-- [ ] Курс: [Философский текст в античности](https://magisteria.ru/category/philosophic-text)
+- [x] Курс: [Философский текст в античности](https://magisteria.ru/category/philosophic-text)
 
 Платформа: Magisteria
 
