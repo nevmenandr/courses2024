@@ -24,7 +24,7 @@
 
 -----
 
-- [ ] Курс: [Японский сад: пространство и время](https://magisteria.ru/category/japanese-gardens) ⛩️
+- [x] Курс: [Японский сад: пространство и время](https://magisteria.ru/category/japanese-gardens) ⛩️
 
 Платформа: Magisteria
 
