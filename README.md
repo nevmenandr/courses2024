@@ -182,10 +182,6 @@
 
 Сертификат
 
------
-
-[См.](https://skillbox.ru/media/design/font-typography-11/)
-
 ## Шахматы ♔♕♖♗♘♙
 
 
@@ -265,4 +261,9 @@
 Лектор: Hayk Inants
 
 Сертификат
+
+## Дополнительные ссылки
+
+* [Академия Агена-Арт](https://agena-art.ru/kak-prohodit-obuchenie-v-akademii-besplatno/)
+* [Про шрифты](https://skillbox.ru/media/design/font-typography-11/)
 
