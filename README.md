@@ -266,4 +266,5 @@
 
 * [Академия Агена-Арт](https://agena-art.ru/kak-prohodit-obuchenie-v-akademii-besplatno/)
 * [Про шрифты](https://skillbox.ru/media/design/font-typography-11/)
+* [Синхронизация](https://online.synchronize.ru/)
 
