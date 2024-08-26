@@ -40,6 +40,8 @@
 
 Лектор: Полина Колозариди
 
+[Заметки](Why-we-post.md)
+
 ------
 
 - [ ] Курс: [Анатомия теории заговора](https://magisteria.ru/category/conspiracy-theory)
